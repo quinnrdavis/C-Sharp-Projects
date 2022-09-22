@@ -39,6 +39,14 @@ namespace Price_Quote
             // cast input to int
             int length = Convert.ToInt32(Console.ReadLine());
 
+            // if dimensions total greater than 50, give response and exit program
+            if ((width + height + length) > 50)
+            {
+                Console.WriteLine("Package too big to be shipped via Package Express.");
+                Console.Read();
+                return -1;
+            }
+
             // calculate price quote as decimal because it might not be a whole number
             decimal quote = ((width * height * length) * weight) / 100m;
 
