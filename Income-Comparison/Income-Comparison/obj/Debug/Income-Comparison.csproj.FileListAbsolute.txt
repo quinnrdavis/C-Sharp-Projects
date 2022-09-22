@@ -1,0 +1,6 @@
+F:\Repos\GitHub\C-Sharp-Projects\Income-Comparison\Income-Comparison\bin\Debug\Income-Comparison.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\Income-Comparison\Income-Comparison\bin\Debug\Income-Comparison.exe
+F:\Repos\GitHub\C-Sharp-Projects\Income-Comparison\Income-Comparison\bin\Debug\Income-Comparison.pdb
+F:\Repos\GitHub\C-Sharp-Projects\Income-Comparison\Income-Comparison\obj\Debug\Income-Comparison.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\Income-Comparison\Income-Comparison\obj\Debug\Income-Comparison.exe
+F:\Repos\GitHub\C-Sharp-Projects\Income-Comparison\Income-Comparison\obj\Debug\Income-Comparison.pdb
