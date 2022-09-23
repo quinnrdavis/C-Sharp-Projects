@@ -1,0 +1,7 @@
+F:\Repos\GitHub\C-Sharp-Projects\Methods\Methods\bin\Debug\Methods.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\Methods\Methods\bin\Debug\Methods.exe
+F:\Repos\GitHub\C-Sharp-Projects\Methods\Methods\bin\Debug\Methods.pdb
+F:\Repos\GitHub\C-Sharp-Projects\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+F:\Repos\GitHub\C-Sharp-Projects\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\Methods\Methods\obj\Debug\Methods.exe
+F:\Repos\GitHub\C-Sharp-Projects\Methods\Methods\obj\Debug\Methods.pdb
