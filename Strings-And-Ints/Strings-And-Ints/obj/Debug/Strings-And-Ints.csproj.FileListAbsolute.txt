@@ -1,0 +1,7 @@
+F:\Repos\GitHub\C-Sharp-Projects\Strings-And-Ints\Strings-And-Ints\bin\Debug\Strings-And-Ints.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\Strings-And-Ints\Strings-And-Ints\bin\Debug\Strings-And-Ints.exe
+F:\Repos\GitHub\C-Sharp-Projects\Strings-And-Ints\Strings-And-Ints\bin\Debug\Strings-And-Ints.pdb
+F:\Repos\GitHub\C-Sharp-Projects\Strings-And-Ints\Strings-And-Ints\obj\Debug\Strings-And-Ints.csproj.AssemblyReference.cache
+F:\Repos\GitHub\C-Sharp-Projects\Strings-And-Ints\Strings-And-Ints\obj\Debug\Strings-And-Ints.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\Strings-And-Ints\Strings-And-Ints\obj\Debug\Strings-And-Ints.exe
+F:\Repos\GitHub\C-Sharp-Projects\Strings-And-Ints\Strings-And-Ints\obj\Debug\Strings-And-Ints.pdb
