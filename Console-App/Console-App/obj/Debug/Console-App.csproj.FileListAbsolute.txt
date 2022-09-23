@@ -1,0 +1,7 @@
+F:\Repos\GitHub\C-Sharp-Projects\Console-App\Console-App\bin\Debug\Console-App.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\Console-App\Console-App\bin\Debug\Console-App.exe
+F:\Repos\GitHub\C-Sharp-Projects\Console-App\Console-App\bin\Debug\Console-App.pdb
+F:\Repos\GitHub\C-Sharp-Projects\Console-App\Console-App\obj\Debug\Console-App.csproj.AssemblyReference.cache
+F:\Repos\GitHub\C-Sharp-Projects\Console-App\Console-App\obj\Debug\Console-App.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\Console-App\Console-App\obj\Debug\Console-App.exe
+F:\Repos\GitHub\C-Sharp-Projects\Console-App\Console-App\obj\Debug\Console-App.pdb
