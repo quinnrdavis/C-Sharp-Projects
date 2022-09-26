@@ -1,0 +1,6 @@
+F:\Repos\GitHub\C-Sharp-Projects\Methods4\Methods4\bin\Debug\Methods4.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\Methods4\Methods4\bin\Debug\Methods4.exe
+F:\Repos\GitHub\C-Sharp-Projects\Methods4\Methods4\bin\Debug\Methods4.pdb
+F:\Repos\GitHub\C-Sharp-Projects\Methods4\Methods4\obj\Debug\Methods4.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\Methods4\Methods4\obj\Debug\Methods4.exe
+F:\Repos\GitHub\C-Sharp-Projects\Methods4\Methods4\obj\Debug\Methods4.pdb
