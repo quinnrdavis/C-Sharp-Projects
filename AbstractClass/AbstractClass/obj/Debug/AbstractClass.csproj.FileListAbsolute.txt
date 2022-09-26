@@ -1,0 +1,7 @@
+F:\Repos\GitHub\C-Sharp-Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+F:\Repos\GitHub\C-Sharp-Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+F:\Repos\GitHub\C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+F:\Repos\GitHub\C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+F:\Repos\GitHub\C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
