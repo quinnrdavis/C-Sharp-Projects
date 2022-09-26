@@ -15,6 +15,12 @@ namespace AbstractClass
 
             // call method
             employee.SayName();
+
+            // instantiate employee as type IQuittable
+            IQuittable quittable = new Employee();
+
+            // call method
+            quittable.Quit();
         }
     }
 }
