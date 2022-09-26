@@ -1,0 +1,7 @@
+F:\Repos\GitHub\C-Sharp-Projects\Methods2\Methods2\bin\Debug\Methods2.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\Methods2\Methods2\bin\Debug\Methods2.exe
+F:\Repos\GitHub\C-Sharp-Projects\Methods2\Methods2\bin\Debug\Methods2.pdb
+F:\Repos\GitHub\C-Sharp-Projects\Methods2\Methods2\obj\Debug\Methods2.csproj.AssemblyReference.cache
+F:\Repos\GitHub\C-Sharp-Projects\Methods2\Methods2\obj\Debug\Methods2.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\Methods2\Methods2\obj\Debug\Methods2.exe
+F:\Repos\GitHub\C-Sharp-Projects\Methods2\Methods2\obj\Debug\Methods2.pdb
