@@ -1,0 +1,6 @@
+F:\Repos\GitHub\C-Sharp-Projects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe
+F:\Repos\GitHub\C-Sharp-Projects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.pdb
+F:\Repos\GitHub\C-Sharp-Projects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.exe
+F:\Repos\GitHub\C-Sharp-Projects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.pdb
