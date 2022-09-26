@@ -1,0 +1,6 @@
+F:\Repos\GitHub\C-Sharp-Projects\Classes\Classes\bin\Debug\Classes.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\Classes\Classes\bin\Debug\Classes.exe
+F:\Repos\GitHub\C-Sharp-Projects\Classes\Classes\bin\Debug\Classes.pdb
+F:\Repos\GitHub\C-Sharp-Projects\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\Classes\Classes\obj\Debug\Classes.exe
+F:\Repos\GitHub\C-Sharp-Projects\Classes\Classes\obj\Debug\Classes.pdb
