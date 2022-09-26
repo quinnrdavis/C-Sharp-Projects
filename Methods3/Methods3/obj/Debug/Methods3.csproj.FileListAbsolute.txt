@@ -1,0 +1,6 @@
+F:\Repos\GitHub\C-Sharp-Projects\Methods3\Methods3\bin\Debug\Methods3.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\Methods3\Methods3\bin\Debug\Methods3.exe
+F:\Repos\GitHub\C-Sharp-Projects\Methods3\Methods3\bin\Debug\Methods3.pdb
+F:\Repos\GitHub\C-Sharp-Projects\Methods3\Methods3\obj\Debug\Methods3.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\Methods3\Methods3\obj\Debug\Methods3.exe
+F:\Repos\GitHub\C-Sharp-Projects\Methods3\Methods3\obj\Debug\Methods3.pdb
