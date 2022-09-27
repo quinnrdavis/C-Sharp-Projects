@@ -1,0 +1,7 @@
+F:\Repos\GitHub\C-Sharp-Projects\Lambdas\Lambdas\bin\Debug\Lambdas.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\Lambdas\Lambdas\bin\Debug\Lambdas.exe
+F:\Repos\GitHub\C-Sharp-Projects\Lambdas\Lambdas\bin\Debug\Lambdas.pdb
+F:\Repos\GitHub\C-Sharp-Projects\Lambdas\Lambdas\obj\Debug\Lambdas.csproj.AssemblyReference.cache
+F:\Repos\GitHub\C-Sharp-Projects\Lambdas\Lambdas\obj\Debug\Lambdas.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\Lambdas\Lambdas\obj\Debug\Lambdas.exe
+F:\Repos\GitHub\C-Sharp-Projects\Lambdas\Lambdas\obj\Debug\Lambdas.pdb
