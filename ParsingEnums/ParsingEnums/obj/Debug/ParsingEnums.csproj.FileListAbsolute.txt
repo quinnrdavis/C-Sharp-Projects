@@ -1,0 +1,7 @@
+F:\Repos\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe
+F:\Repos\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.pdb
+F:\Repos\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.AssemblyReference.cache
+F:\Repos\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.exe
+F:\Repos\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.pdb
