@@ -1,0 +1,7 @@
+C:\Users\quinu\source\repos\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\quinu\source\repos\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\quinu\source\repos\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\quinu\source\repos\Constructors\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\quinu\source\repos\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\quinu\source\repos\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\quinu\source\repos\Constructors\Constructors\obj\Debug\Constructors.pdb
