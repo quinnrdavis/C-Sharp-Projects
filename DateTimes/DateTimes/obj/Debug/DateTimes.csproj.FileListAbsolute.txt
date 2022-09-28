@@ -1,0 +1,6 @@
+F:\Repos\GitHub\C-Sharp-Projects\DateTimes\DateTimes\bin\Debug\DateTimes.exe.config
+F:\Repos\GitHub\C-Sharp-Projects\DateTimes\DateTimes\bin\Debug\DateTimes.exe
+F:\Repos\GitHub\C-Sharp-Projects\DateTimes\DateTimes\bin\Debug\DateTimes.pdb
+F:\Repos\GitHub\C-Sharp-Projects\DateTimes\DateTimes\obj\Debug\DateTimes.csproj.CoreCompileInputs.cache
+F:\Repos\GitHub\C-Sharp-Projects\DateTimes\DateTimes\obj\Debug\DateTimes.exe
+F:\Repos\GitHub\C-Sharp-Projects\DateTimes\DateTimes\obj\Debug\DateTimes.pdb
