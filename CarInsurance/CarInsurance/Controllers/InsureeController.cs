@@ -83,7 +83,7 @@ namespace CarInsurance.Controllers
                 }
 
                 // if car is a porsche, add $25, if model is 911 carrera, add another $25
-                if (insuree.CarMake.ToLower() == "Porsche")
+                if (insuree.CarMake.ToLower() == "porsche")
                 {
                     quoteAmount += 25.00m;
                     if (insuree.CarModel.ToLower() == "911 carrera")
@@ -94,19 +94,17 @@ namespace CarInsurance.Controllers
 
                 // add $10 per speeding ticket
                 quoteAmount += (insuree.SpeedingTickets * 10);
-
-                // calculate additions for DUI and full coverage before determining if they should be added so they don't compound
-                decimal duiAddition = quoteAmount / 4;
-                decimal fullCoverageAddition = quoteAmount / 2;
-                // if user has had a DUI, add the 25%
+                
+                // if user has had a DUI, add 25%
                 if (insuree.DUI == true)
                 {
-                    quoteAmount += duiAddition;
+                    quoteAmount *= 1.25m;
                 }
-                // if user wants full coverage, add the 50%
+
+                // if user wants full coverage, add 50%
                 if (insuree.CoverageType == true)
                 {
-                    quoteAmount += fullCoverageAddition;
+                    quoteAmount *= 1.5m;
                 }
 
                 insuree.Quote = quoteAmount;
