@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\quinu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\quinu\\.nuget\\packages"
+    ]
+  }
+}
